@@ -3,8 +3,9 @@
 This is a dropdown menu and instance switcher script for Redlib, designed to easily switch between various Redlib instances and update Reddit links accordingly.  
 Redlib repository: [Redlib GitHub](https://github.com/redlib-org/redlib).
 
-![Screenshot 1]([screenshot1.png](https://github.com/RilleCode/redlib-dropdown-menu/blob/main/menu-example-2.png))
-![Screenshot 2]([screenshot2.png](https://github.com/RilleCode/redlib-dropdown-menu/blob/main/menu-example-1.png))
+<img src="https://raw.githubusercontent.com/RilleCode/redlib-dropdown-menu/main/menu-example-1.png" alt="Screenshot 1" width="400" height="300">
+
+<img src="https://raw.githubusercontent.com/RilleCode/redlib-dropdown-menu/main/menu-example-2.png" alt="Screenshot 2" width="400" height="300">
 
 ## Compatibility
 This script has been tested on Firefox. It should work on other browsers, but it has not been tested extensively outside of Firefox.
